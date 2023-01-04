@@ -1,0 +1,10 @@
+export const LOGIN_PAGE = '/lsc-team/agreenerator/login'
+export const REGISTER_PAGE = '/lsc-team/agreenerator/registration'
+export const MAIN_PAGE = '/lsc-team/agreenerator'
+export const LTL_PAGE = '/lsc-team/agreenerator/generator/ltl'
+export const FTL_PAGE = '/lsc-team/agreenerator/generator/ftl'
+export const POOLING_PAGE = '/lsc-team/agreenerator/generator/pooling'
+
+export const REGISTER_POST = '/auth/registration'
+export const LOGIN_POST = '/auth/login'
+export const AUTH_CHECK = '/auth/check'
